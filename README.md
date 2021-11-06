@@ -1,4 +1,7 @@
 # ci-restserver
-Check the recent version at https://github.com/chriskacerguis/codeigniter-restserver
-
-My alternate version https://github.com/ardisaurus/old-rest-ci
+http://localhost:81/rest_ci/index.php/api/binarytodecimal
+method POST 
+parameter Input
+http://localhost:81/rest_ci/index.php/api/decimaltobinary 
+method POST 
+parameter Input
